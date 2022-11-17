@@ -1,3 +1,4 @@
+import './App.css';
 import About from './src/components/About/about';
 import Contact from '.src/components/Contact/Contact';
 import Header from '.src/components/header/Header';
